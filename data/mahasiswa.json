@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Gilang FR",
+        "nim": "17.01.53.0083",
+        "email": "gilang@gmail",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Fariz S",
+        "nim": "17.01.53.0001",
+        "email": "fariz@gmail",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Edo Tensei",
+        "nim": "17.01.53.0088",
+        "email": "edo@gmail",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 3
+    }
+]
